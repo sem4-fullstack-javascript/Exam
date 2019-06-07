@@ -1287,65 +1287,46 @@ describe("LocationBlogFacade", function () {
 
 ## Geo-data, GeoJSON, Geospatial Queries with MongoDB, React Native/Expo’s Location and MapView Components
 ### Explain and demonstrate basic Geo-JSON, involving as a minimum, Points and Polygons
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Explain and demonstrate ways to create Geo-JSON test data
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Explain the typical order of longitude and latitude used by Server Side API’s and Client Side API’s
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Explain and demonstrate a REST API that implements geo-features, using a relevant geo-library and plain JavaScript
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Explain and demonstrate a REST API that implements geo-features, using Mongodb’s geospatial queries and indexes.
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Explain and demonstrate a React Native Client that uses geo-components (Location, MapView, etc.)
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ### Demonstrate both server and client-side, of the geo-related parts of your implementation of the mini project
-
-## PWA
-### Explain at a conceptual level about Progressive Web Apps and how they promise to change the way we think about WEB and APP development
-
-### Explain the rationale behind the course materials suggestion “Mobile First”
-
-### What is a Service Worker and why is it necessary for a PWA.
-
-### What can Service Workers do?
-
-### Explain, using an example, about the Service Worker Lifecycle AND a some of the Service Worker Events.
-
-### Demonstrate, using an example, how to use the caching API to implement, among other things, off-line capabilities
-
-### Explain, and demonstrate what it takes to provide “add to home screen” capabilities to a PWA
-
-### Depending on what you have chosen during this period pick ONE of the following.
-#### Explain, and if possible, demonstrate what it takes to add Push Notifications to a PWA
-
-#### Explain and demonstrate a simple PWA made with React
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 3
 ## GraphQL
 ### Explain shortly about GraphQL, its purpose and some of its use cases
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Explain some of the Server Architectures that can be implemented with a GraphQL backend
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### What is meant by the terms over- and under-fetching in relation to REST
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Explain shortly about GraphQL’s type system and some of the benefits we get from this
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Explain shortly about GraphQL Schema Definition Language, and provide a number of examples of schemas you have defined.
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Provide a number of examples demonstrating data fetching with GraphQL. You should provide examples both running in a Sandbox/playground and examples executed in an Apollo Client
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Provide a number of examples demonstrating creating, updating and deleting with Mutations. You should provide examples both running in a Sandbox/playground and examples executed in an Apollo Client.
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Explain the Concept of a Resolver function, and provide a number of simple examples of resolvers you have implemented in a GraphQL Server.
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Explain the benefits we get from using a library like Apollo-client, compared to using the plain fetch-API
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### In an Apollo-based React Component, demonstrate how to perform GraphQL Queries, including:
 #### Explain the structure of the Query Component
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 #### Explain the purpose of ApolloClient and the ApolloProvider component
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 #### Explain the purpose of the gql-function (imported from graphql-tag)
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### In an Apollo-based React Component, demonstrate how to perform GraphQL Mutations?
-
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
 ### Demonstrate and highlight important parts of a “complete” GraphQL-app using Express and MongoDB on the server side, and Apollo-Client on the client.
+se [miniprojekt](https://github.com/sem4-fullstack-javascript/MiniProject) del 4
